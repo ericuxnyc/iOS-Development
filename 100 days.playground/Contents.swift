@@ -25,7 +25,7 @@ func WhoAmI(name: String, age: Int, isMarried: Bool){
     print("I am married: \(isMarried)")
 }
 
-WhoAmI(name: "Carmen", age: 40, isMarried: true)
+WhoAmI(name: "Eric", age: 40, isMarried: true)
 
 
 
